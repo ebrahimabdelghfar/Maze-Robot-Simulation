@@ -61,6 +61,9 @@
   ```
   # Paltform used
   ![image](https://user-images.githubusercontent.com/81301684/193398603-c2f7f773-95bc-49f3-a321-3390dd1755c1.png)![image](https://user-images.githubusercontent.com/81301684/193398736-8fa86e1d-3fd1-4f9d-97d8-942e489f7c8c.png) 
+  # Omni Robot Concept
+  ![image](https://user-images.githubusercontent.com/81301684/193404525-85b39435-dbbd-4b83-a1b1-49d832643964.png)</br>
+  If all four wheels move forward, the resulting move of the robot will be forward, and vice versa if all wheels move backward the robot will move backward. For moving to the right, the right wheels need rotate inside the robot, while the left wheels need rotate outside the robot. The resulting force due to the diagonally positioned rollers will make the robot move to the right. The same but opposite happens when moving to the left. With these wheels we can also achieve movement in diagonal direction by rotating only two wheels.
   # Simulation screenshots
   ![Screenshot from 2022-10-01 09-48-32](https://user-images.githubusercontent.com/81301684/193399863-19ef6df9-b6a0-4ac1-9cd4-5b4a87091802.png)
 ![Screenshot from 2022-10-01 09-48-13](https://user-images.githubusercontent.com/81301684/193399868-14c288dd-bdd6-4931-b612-97c53775ecc3.png)
