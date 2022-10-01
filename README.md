@@ -64,4 +64,5 @@
   # Simulation screenshots
   ![Screenshot from 2022-10-01 09-48-32](https://user-images.githubusercontent.com/81301684/193399863-19ef6df9-b6a0-4ac1-9cd4-5b4a87091802.png)
 ![Screenshot from 2022-10-01 09-48-13](https://user-images.githubusercontent.com/81301684/193399868-14c288dd-bdd6-4931-b612-97c53775ecc3.png)
+![Screenshot from 2022-10-01 12-02-43](https://user-images.githubusercontent.com/81301684/193404090-0d2ae2e7-89fd-44c2-9551-ba8e58cd4a88.png)
 
