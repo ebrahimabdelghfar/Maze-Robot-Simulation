@@ -58,3 +58,7 @@
   ```
   # Paltform used
   ![image](https://user-images.githubusercontent.com/81301684/193398603-c2f7f773-95bc-49f3-a321-3390dd1755c1.png)![image](https://user-images.githubusercontent.com/81301684/193398736-8fa86e1d-3fd1-4f9d-97d8-942e489f7c8c.png) 
+  # Simulation screenshots
+  ![Screenshot from 2022-10-01 09-48-32](https://user-images.githubusercontent.com/81301684/193399863-19ef6df9-b6a0-4ac1-9cd4-5b4a87091802.png)
+![Screenshot from 2022-10-01 09-48-13](https://user-images.githubusercontent.com/81301684/193399868-14c288dd-bdd6-4931-b612-97c53775ecc3.png)
+
