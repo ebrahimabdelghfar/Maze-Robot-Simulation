@@ -53,8 +53,11 @@
   ```
   # Robot sensors 
   /velodyne_points #this topic published lidar pointclouds "sensor_msgs/PointCloud2"
-  /gps # this topic position of robot's CG publish list [x,y,z] in **meter** with message type "std_msgs/Float64MultiArray"
-  /Gyro #this topic orientation of robot's CG in euler angles publish list [alpha,beta,gamma] in **rad** with message type "std_msgs/Float64MultiArray" 
+  /gps  #this topic position of robot's CG publish list [x,y,z] in **meter** with message type "std_msgs/Float64MultiArray"
+  /gyro #this topic orientation of robot's CG in euler angles publish list [alpha,beta,gamma] in **rad** with message type "std_msgs/Float64MultiArray" 
+  /camera/rgb_image #this topic publish Image from monocular camera with message type "sensor_msgs/Image"
+  # Arm sensor 
+  /arm/gyro #this topic orientation of arms's CG in euler angles publish list [alpha,beta,gamma] in **rad** with message type "std_msgs/Float64MultiArray" 
   ```
   # Paltform used
   ![image](https://user-images.githubusercontent.com/81301684/193398603-c2f7f773-95bc-49f3-a321-3390dd1755c1.png)![image](https://user-images.githubusercontent.com/81301684/193398736-8fa86e1d-3fd1-4f9d-97d8-942e489f7c8c.png) 
