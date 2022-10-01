@@ -13,14 +13,25 @@
   * install Coppeliasim </br>
     1- Download the simulator from this link https://www.coppeliarobotics.com/downloads **download the edu version** </br>
     2- Extract the simulator </br>
-      ```
+     ```
        cd /<download_location> 
        tar -xvf <name_of_file>.tar.xz
-       ```
+     ```
      3- copy the file **libv_repExtRosVelodyne.so** to the coppeliasim extracted folder </br>
    * Run Coppeliasim
-   ** csd
-    2
+     ```
+     roscore # wait untill become stable *In first terminal*
+     cd <coppeliasim_folder> #In second terminal
+     ./coppeliaSim.sh
+     ``` 
+   * Open open scene
+   1. Click on file in coppeliasim window
+   2. Click **open scene**
+   3. Go to your workspace
+   4. Open src/Vrep_model/models
+   5. Click on simulation_environment.ttt
+   * Run simulation
+   1. click on play icon
   # Sensors
    ## Robot sensors
    * Velodyne VLP-16  
@@ -45,7 +56,5 @@
   /gps # this topic position of robot's CG publish list [x,y,z] in **meter** with message type "std_msgs/Float64MultiArray"
   /Gyro #this topic orientation of robot's CG in euler angles publish list [alpha,beta,gamma] in **rad** with message type "std_msgs/Float64MultiArray" 
   ```
-   
-   
-   
-  
+  # Paltform used
+  ![image](https://user-images.githubusercontent.com/81301684/193398603-c2f7f773-95bc-49f3-a321-3390dd1755c1.png)![image](https://user-images.githubusercontent.com/81301684/193398736-8fa86e1d-3fd1-4f9d-97d8-942e489f7c8c.png) 
